@@ -1,55 +1,78 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" />
-<p align="center">
-<a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="30" width="30" /></a>&nbsp;
-<a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="30" width="30" /></a>&nbsp;
-<a href="http://discord.com/users/apoorv#4040" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="apoorv#4040" height="40" width="30" /></a>&nbsp;
-<a href="https://www.buymeacoffee.com/apoorvtyagi"><img align="center" alt="Buy me a Coffee" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/buymeacoffee.svg" /></a>
-</p>
+# 🚀 Hello, World! I'm [Your Name] 🌍
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+**A Full-Stack Developer** 🌐 with a passion for crafting elegant code, building seamless user experiences, and scaling applications to new heights. Every day, I wake up excited to push boundaries, solve complex problems, and learn something new.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
-- 🏦 I'm a Software Development Engineer working for a Health Tech startup in India 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I regulary write technical articles for [hashnode](https://apoorvtyagi.tech/) and [dev.to](https://dev.to/apoorvtyagi)
-- 💻 I use daily **.js**, **.java**, **.py**,  **.sql**
-- 📖 I am currently reading **Sapiens** by Yuval Noah Harari
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), silicon valley & startups
-- 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
-- 🧑‍💻 Tech I work on :
-
-<p align="center">
-      <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" alt="csharp" width="55" height="65"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html5" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="45" height="55"/>
-      <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="45" height="55"/>
-      <img src="https://img.shields.io/badge/_-0E141D?logo=javascript&logoColor=F7DF1E?logoWidth=8" alt="javascript"width="60" height="60"/>
-</p>
-
----
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25' /> My Github Stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=Krealvippro&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Krealvippro&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Krealvippro&theme=dark)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ██████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 49.05 % as on ⏰ 28-Jun-2022
+> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
 
 ---
 
+## 🛠️ Tech Stack & Tools 
 
-### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20" /> A Famous Fact/Quote:
-<a href="https://github.com/marketplace/actions/quote-readme">
-<!--STARTS_HERE_QUOTE_README-->
-• <i>CPU manufacturing is so unpredictable that every chip must be tested since the majority of finished chips are defective. Those that survive are assigned a model number and price reflecting their maximum safe performance.</i>
-<!--ENDS_HERE_QUOTE_README-->
-</a>
+### 🚧 **Frontend**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Remix](https://img.shields.io/badge/Remix-%23000000.svg?style=for-the-badge&logo=remix&logoColor=white)
+
+### 🔗 **Backend & Database**
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-%23008B8B.svg?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### ☁️ **Cloud & Deployment**
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Pages-%23F38020.svg?style=for-the-badge&logo=cloudflare&logoColor=white)
+
+### 🔒 **Authentication**
+![JWT](https://img.shields.io/badge/JSON%20Web%20Tokens-%23000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
+## 💡 What I'm Currently Working On
+- 🛍 **Shopify Admin App** with **GraphQL** (API version: `2024-07`).
+- 🌐 Deploying serverless functions using **Wrangler** on **Cloudflare Pages**.
+- 🛠️ Enhancing ORM performance with **Drizzle ORM** and optimizing for **MySQL** and **SQLite**.
+- 🚀 Exploring innovative frontend solutions with **Remix** and **Vite**.
+
+---
+
+## ✨ Design Philosophy & Theme 
+I believe in crafting user interfaces that are:
+- **Intuitive** 🧠: Simple, clear, and easy to navigate.
+- **Responsive** 📱: Works seamlessly across devices.
+- **Aesthetic** 🎨: Harmonious design with thoughtful colors.
+
+Here’s my current **Shopify Theme Palette**:
+- ![#96bf48](https://via.placeholder.com/15/96bf48/000000?text=+) `#96bf48` – Energetic Green
+- ![#479ccf](https://via.placeholder.com/15/479ccf/000000?text=+) `#479ccf` – Calm Blue
+- ![#2d3538](https://via.placeholder.com/15/2d3538/000000?text=+) `#2d3538` – Slate Black
+- ![#f5f5f5](https://via.placeholder.com/15/f5f5f5/000000?text=+) `#f5f5f5` – Clean White
+- ![#f2f7fa](https://via.placeholder.com/15/f2f7fa/000000?text=+) `#f2f7fa` – Subtle Blue
+- ![#666666](https://via.placeholder.com/15/666666/000000?text=+) `#666666` – Elegant Grey
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 🌱 Fun Facts About Me
+- 💻 I code best with coffee and lo-fi beats in the background ☕🎶.
+- 🌌 I’m fascinated by the intersection of **technology** and **design**.
+- 🛠 I believe **automation** is the key to unlocking creativity. Why do it twice when you can script it? 🤖
+
+---
+
+## 📬 Let's Connect!
+
+- 🔗 [GitHub](https://github.com/yourusername)
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+- 🌐 [Portfolio](https://yourwebsite.com)
+
+---
+
+🌟 *"Commit early, commit often, and always push your limits!"* 🌟
