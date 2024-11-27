@@ -1,4 +1,4 @@
-# 🚀 Hello, World! I'm [Your Name] 🌍
+# 🚀 Hello, World! I'm Kreal (Levi) 🌍
 
 **A Full-Stack Developer** 🌐 with a passion for crafting elegant code, building seamless user experiences, and scaling applications to new heights. Every day, I wake up excited to push boundaries, solve complex problems, and learn something new.
 
@@ -15,7 +15,8 @@
 
 ### 🔗 **Backend & Database**
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-%23008B8B.svg?style=for-the-badge)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=for-the-badge&logo=graphql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -69,7 +70,7 @@ Here’s my current **Shopify Theme Palette**:
 
 ## 📬 Let's Connect!
 
-- 🔗 [GitHub](https://github.com/yourusername)
+- 🔗 [GitHub](https://github.com/Kreal244)
 - 💼 [LinkedIn](https://linkedin.com/in/yourusername)
 - 🌐 [Portfolio](https://yourwebsite.com)
 
